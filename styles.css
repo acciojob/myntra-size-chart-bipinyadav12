@@ -1,2 +1,22 @@
-
-/* Your CSS Code here. */
+.table{
+	width:100%;
+	border-collapse:collapse;
+	
+}
+.row1{
+	background-color:brown;
+	
+}
+.cell{
+	border:1px solid black;
+	
+}
+.row2{
+	background-color:sandybrown;
+}
+.row3{
+	background-color:greenyellow;
+}
+.row4{
+	background-color:red;
+}
